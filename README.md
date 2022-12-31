@@ -1,3 +1,5 @@
+# ❗This is a few years old and no longer maintained
+
 # Image to Ascii Art
 Turns an image into ASCII Art.
 
